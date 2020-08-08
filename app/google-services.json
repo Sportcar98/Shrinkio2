@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771842438404",
+    "firebase_url": "https://shrinkio-26767.firebaseio.com",
+    "project_id": "shrinkio-26767",
+    "storage_bucket": "shrinkio-26767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771842438404:android:fa841b2b45a0533d8ecc51",
+        "android_client_info": {
+          "package_name": "com.example.shrinkio2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771842438404-2qdjb4ck119sb6rtu6epunam8pj9i1i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU9Ufe4jwjH5rcZQLm3JvLQA8XdUwlCuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771842438404-2qdjb4ck119sb6rtu6epunam8pj9i1i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
